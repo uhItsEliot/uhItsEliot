@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uhItsEliot
-- 👀 I’m interested in ... front end projects using react and node.js, also backend data storage.
-- 🌱 I’m currently learning ... assembly, Linx/vim environments.
+- 👀 I’m interested in ... front end projects using react, next, and openai learning.
+- 🌱 I’m currently leading the charge on the SSR front! SEO bow down!
 - 💞️ I’m looking to collaborate on ... full stack.
 - 📫 How to reach me ... eliotshedlock@gmail.com
 
